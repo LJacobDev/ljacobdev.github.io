@@ -21,7 +21,7 @@ Goal Catcher Journal (coming soon)
 
 This section points to several repos made while taking courses on various technologies like Vue.js, PHP or deploying AI-based applications.  In this section, the code might be something that was part of a guided course that was helped along by examples from the instructor, but in this case, if you see something posted on here, it means that I also fully understand the code and design behind it and can answer any questions about it.
 
-[Examples of things learned about the Vue3 Composition API](https://github.com/LJacobDev/vue-3-in-action-projects)
+[Examples of things learned while working with the Vue 3 Composition API](https://github.com/LJacobDev/vue-3-in-action-projects)
 
 [Making a Laravel-like framework from scratch in PHP](https://github.com/LJacobDev/workopia-php)
 
