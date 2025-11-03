@@ -1,4 +1,4 @@
-Thank you for taking a moment to take a look at this!
+Thank you for taking a moment to visit my portfolio!
 
 This area is currently a landing page to help highlight and explain repositories of interest.
 
