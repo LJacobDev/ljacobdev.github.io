@@ -1,9 +1,6 @@
 Thank you for taking a moment to visit my portfolio!
 
-This area is currently a landing page to help highlight and explain repositories of interest.
-
 I've been spending a couple of years intensively learning web development technologies, but now it is time to show what I can do.
-
 
 This area is undergoing development and will be experincing frequent updates over the next while.
 
