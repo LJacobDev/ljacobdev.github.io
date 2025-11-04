@@ -18,7 +18,7 @@ This section points to repositories for portfolio pieces and applications that I
 
 This section points to several repos made while taking courses on various technologies like Vue.js, PHP or deploying AI-based applications.  In this section, the code might be something that was part of a guided course that was helped along by examples from the instructor, but in this case, if you see something posted on here, it means that I also fully understand the code and design behind it and can answer any questions about it.
 
-These examples are mostly the result of learning about Framework features or functionality, so some important things (like error handling, unit tests, or building out more than the basic idea) aren't going to be seen as much in these examples, but they still are here for now to show things that I have exposure to and familiarity with.
+These examples are mostly the result of learning about framework features or functionality, so some important things (like error handling, unit tests, or building out more than the basic idea) aren't going to be seen as much in these examples, but they still are here for now to show things that I have exposure to and familiarity with.
 
 ### [Examples of working with the Vue 3 Composition API](https://github.com/LJacobDev/vue-3-in-action-projects)
 
