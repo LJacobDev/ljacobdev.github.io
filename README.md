@@ -9,7 +9,7 @@ This area is undergoing development and will be experiencing frequent updates ov
 
 ## Work in progress on original apps and demonstrations
 
-This section points to repositories for portfolio pieces and applications that I'm making either to show what I know how to do, or else am building because I want to use them to help me solve problems.
+This section points to repositories for portfolio pieces and applications that I'm working on, either to show what I know how to do, or else because I want to use them to help me solve problems.
 
 ### [Demo Library App with Staff Dashboard (Vue 3 / Nuxt 4)](https://github.com/LJacobDev/mini-library-management-system)
 
