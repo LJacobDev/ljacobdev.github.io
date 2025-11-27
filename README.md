@@ -1,6 +1,6 @@
 Thank you for taking a moment to visit my portfolio in progress!
 
-I've been spending a couple of years intensively learning web development technologies, but now it is time to show what I can do.
+I've been spending a couple of years intensively learning web development technologies, and now it is time to show what I can do.
 
 This area is undergoing development and will be experiencing frequent updates over the next while.
 
