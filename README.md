@@ -1,4 +1,4 @@
-Thank you for taking a moment to visit my portfolio!
+Thank you for taking a moment to visit my portfolio in progress!
 
 I've been spending a couple of years intensively learning web development technologies, but now it is time to show what I can do.
 
