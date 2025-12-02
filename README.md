@@ -9,7 +9,7 @@ This area is undergoing development and will be experiencing frequent updates ov
 
 ## Work in progress on original apps and demonstrations
 
-This section points to repositories for portfolio pieces and applications that I'm working on, either to show what I know how to do, or else because I want to use them to help me solve problems.
+This section points to repositories for portfolio pieces and applications that I'm working on, either to show what I know how to do, or else because I want to use them to help myself solve problems.
 
 ### [Demo Library App with Staff Dashboard and AI Chat Agent (Vue 3 / Nuxt 4)](https://github.com/LJacobDev/mini-library-management-system)
 
@@ -18,7 +18,7 @@ This section points to repositories for portfolio pieces and applications that I
 
 ## Work done while following guided lessons
 
-This section points to repos made while taking courses on various technologies like Vue.js.  In this section, the code is from working through a guided course that was helped along by examples from the instructor, but in this case, if you see something posted on here, it means that I also fully understand the code and design behind it and can answer any questions about it.
+This section points to repos made while taking courses on various technologies like Vue.js.  In this section, the code is from working through a guided course that was helped along by examples from the instructor, but if you see something posted on here, it means that I also fully understand the code and design behind it and can answer any questions about it.
 
 These examples are often meant for learning about specific framework features, so some important things (like error handling, unit tests, or building out more than the basic idea) aren't going to be seen as much in these examples.
 
