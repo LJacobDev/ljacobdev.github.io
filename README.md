@@ -22,4 +22,4 @@ This section points to repos made while taking courses on various technologies l
 
 These examples are often meant for learning about specific framework features, so some important things (like error handling, unit tests, or building out more than the basic idea) aren't going to be seen as much in these examples.
 
-### [Examples of working with the Vue 3 Composition API](https://github.com/LJacobDev/vue-3-in-action-projects)
+### [Older examples of working with the Vue 3 Composition API](https://github.com/LJacobDev/vue-3-in-action-projects)
